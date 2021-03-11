@@ -1,0 +1,4 @@
+C:\Users\AAder\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7319.72\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\AAder\CLionProjects\Quicksort-Lab-master
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/AAder/CLionProjects/Quicksort-Lab-master/cmake-build-debug
